@@ -8,7 +8,7 @@ Welcome! This repository contains all tasks I completed during my internship at 
 
 | Task No. | Title | Details |
 |----------|-------|---------|
-| 1 | Simple Calculator | [View Details](./SimpleCalculatorTask1/README.md) |
+| 1 | Simple Calculator | [View Details](./SimpleCalculatorTask1) |
 
 ---
 
