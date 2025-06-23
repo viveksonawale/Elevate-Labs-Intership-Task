@@ -17,9 +17,9 @@ This task implements a basic **Java Console Calculator** that performs:
 ---
 
 ## Tools 
-IDLE - IntelliJ IDEA
-JDK = jdk17
-git - gitBash
+- IDLE - IntelliJ IDEA.
+- JDK = jdk17.
+- git - gitBash.
 
 ## How It Works
 ![Screeshot](https://github.com/user-attachments/assets/a056dd17-9a1c-4401-99da-e850464d41aa)
