@@ -1,4 +1,4 @@
-# Internship Tasks at [ELEVATE LABS]
+# Internship Tasks at ELEVATE LABS
 
 Welcome! This repository contains all tasks I completed during my internship at **Elevate Labs**.
 
