@@ -1,4 +1,4 @@
-# Task 1 - Java Simple Calculator
+# Task 1 - Java Console Calculator
 
 This task implements a basic **Java Console Calculator** that performs:
 - Addition
