@@ -7,11 +7,11 @@ This repository contains all the tasks, assignments, and projects completed duri
 
 Below is a table of contents linking to the task files:
 
-| Task No. | Task Name / Description   | Link to File         |
-|----------|---------------------------|----------------------|
-| 1        | Java Console Calculator.  | [Click](./SimpleCalculatorTask1/README.md) |
-| 2        | Student Record Management System | [Click](./StudentManagementSystem/README.md)          |
-| ...      | ...                       | ...                  |
+| Task No. | Task Name / Description   | Link to File                                  |
+|----------|---------------------------|-----------------------------------------------|
+| 1        | Java Console Calculator.  | [Click](./SimpleCalculatorTask1/README.md)    |
+| 2        | Student Record Management System | [Click](./StudentManagementSystem/README.md)  |
+| 3        | Library Management System (Using OOP)                      | [Click](./LibraryManagementSystem/README.md) |
 
 > ✨ *Please navigate using the links above to view specific task details and implementations.*
 
