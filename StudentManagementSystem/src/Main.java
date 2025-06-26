@@ -30,10 +30,10 @@ public class Main {
     public static void main(String[] args) {
         int counter = 0;
 //        Created a Collections ArrayList with interface List for the index feature....
-        List<Student> students = new ArrayList<Student>();
+        List<Student> students = new ArrayList();
         Scanner scanner = new Scanner(System.in);
         while (true) {
-            System.out.println("Enter CURD Choice \n1.CREATE\n2.UPDATE\n3.READ\n4.DELETE\n5.EXIT");
+            System.out.println("Enter CURD Choice: \n1.CREATE\n2.UPDATE\n3.READ\n4.DELETE\n5.EXIT");
             int choice = scanner.nextInt();
             switch (choice) {
 //        CURD OPERATION--> CREATE
