@@ -13,6 +13,7 @@ Below is a table of contents linking to the task files:
 | 2        | Student Record Management System                           | [Click](./StudentManagementSystem/README.md)  |
 | 3        | Library Management System (Using OOP)                      | [Click](./LibraryManagementSystem/README.md) |
 | 4        | Java File I/O – Notes App                                  | [Click](./NotesApp/Readme.md)    |
+| 5        | Bank Account Simulation                                  | [Click](./BankAccountSimulation/ReadMe.md)    |
 
 > ✨ *Please navigate using the links above to view specific task details and implementations.*
 
