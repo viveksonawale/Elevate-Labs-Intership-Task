@@ -14,6 +14,7 @@ Below is a table of contents linking to the task files:
 | 3        | Library Management System (Using OOP)                      | [Click](./LibraryManagementSystem/README.md) |
 | 4        | Java File I/O – Notes App                                  | [Click](./NotesApp/Readme.md)    |
 | 5        | Bank Account Simulation                                  | [Click](./BankAccountSimulation/ReadMe.md)    |
+| 6        | Java GUI – ToDo App.                               | [Click](./ToDoApp/ReadMe.md)    |
 
 > ✨ *Please navigate using the links above to view specific task details and implementations.*
 
