@@ -7,14 +7,15 @@ This repository contains all the tasks, assignments, and projects completed duri
 
 Below is a table of contents linking to the task files:
 
-| Task No. | Task Name / Description                                    | Link to File                                  |
-|----------|------------------------------------------------------------|-----------------------------------------------|
-| 1        | Java Console Calculator.                                   | [Click](./SimpleCalculatorTask1/README.md)    |
-| 2        | Student Record Management System                           | [Click](./StudentManagementSystem/README.md)  |
-| 3        | Library Management System (Using OOP)                      | [Click](./LibraryManagementSystem/README.md) |
-| 4        | Java File I/O – Notes App                                  | [Click](./NotesApp/Readme.md)    |
-| 5        | Bank Account Simulation                                  | [Click](./BankAccountSimulation/ReadMe.md)    |
-| 6        | Java GUI – ToDo App.                               | [Click](./ToDoApp/ReadMe.md)    |
+| Task No. | Task Name / Description               | Link to File                        |
+|----------|---------------------------------------|-------------------------------------|
+| 1        | Java Console Calculator.              | [Click](./SimpleCalculatorTask1/)   |
+| 2        | Student Record Management System      | [Click](./StudentManagementSystem/) |
+| 3        | Library Management System (Using OOP) | [Click](./LibraryManagementSystem/) |
+| 4        | Java File I/O – Notes App             | [Click](./NotesApp/)                |
+| 5        | Bank Account Simulation               | [Click](./BankAccountSimulation/)   |
+| 6        | Java GUI – ToDo App.                  | [Click](./ToDoApp/)                 |
+| 7        | Java JDBC – Employee Database App     | [Click](./EmployeeDatabaseApp/)     |
 
 > ✨ *Please navigate using the links above to view specific task details and implementations.*
 
