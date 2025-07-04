@@ -16,6 +16,7 @@ Below is a table of contents linking to the task files:
 | 5        | Bank Account Simulation               | [Click](./BankAccountSimulation/)   |
 | 6        | Java GUI – ToDo App.                  | [Click](./ToDoApp/)                 |
 | 7        | Java JDBC – Employee Database App     | [Click](./EmployeeDatabaseApp/)     |
+| 7        | Mini Project – Online Quiz App        | [Click](./Quiz App/)     |
 
 > ✨ *Please navigate using the links above to view specific task details and implementations.*
 
