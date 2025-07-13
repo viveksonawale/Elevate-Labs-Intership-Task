@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane fx:id="ap_main" prefHeight="600" prefWidth="450" xmlns="http://javafx.com/javafx/17.0.12" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.chatappllicationclient.HelloController">
+    <children>
+        <Button fx:id="button_send" layoutX="361.0" layoutY="538.0" mnemonicParsing="false" prefHeight="38.0" prefWidth="74.0" text="Send">
+            <font>
+                <Font name="System Bold" size="16.0" />
+            </font>
+        </Button>
+        <TextField fx:id="tf_message" layoutX="14.0" layoutY="538.0" prefHeight="38.0" prefWidth="340.0" promptText="Message">
+            <font>
+                <Font size="16.0" />
+            </font>
+        </TextField>
+        <ScrollPane fx:id="sp_main" layoutX="14.0" layoutY="56.0" prefHeight="472.0" prefWidth="421.0">
+            <content>
+                <VBox fx:id="vbox_messages" prefHeight="470.0" prefWidth="420.0" />
+            </content>
+        </ScrollPane>
+        <Label layoutX="152.0" layoutY="14.0" prefHeight="32.0" prefWidth="164.0" text="ThreadTalk">
+            <font>
+                <Font name="JetBrains Mono ExtraBold" size="27.0" />
+            </font>
+        </Label>
+    </children>
+</AnchorPane>
