@@ -7,16 +7,16 @@ This repository contains all the tasks, assignments, and projects completed duri
 
 Below is a table of contents linking to the task files:
 
-| Task No. | Task Name / Description               | Link to File                       |
-|----------|---------------------------------------|------------------------------------|
-| 1        | Java Console Calculator.              | [Click](./SimpleCalculatorTask1/)  |
+| Task No. | Task Name / Description               | Link to File                        |
+|----------|---------------------------------------|-------------------------------------|
+| 1        | Java Console Calculator.              | [Click](./SimpleCalculatorTask1/)   |
 | 2        | Student Record Management System      | [Click](./StudentManagementSystem/) |
 | 3        | Library Management System (Using OOP) | [Click](./LibraryManagementSystem/) |
-| 4        | Java File I/O – Notes App             | [Click](./NotesApp/)               |
-| 5        | Bank Account Simulation               | [Click](./BankAccountSimulation/)  |
-| 6        | Java GUI – ToDo App.                  | [Click](./ToDoApp/)                |
-| 7        | Java JDBC – Employee Database App     | [Click](./EmployeeDatabaseApp/)    |
-| 8        | Mini Project – Online Quiz App        | [Click](QuizApp/)               |
+| 4        | Java File I/O – Notes App             | [Click](./NotesApp/)                |
+| 5        | Bank Account Simulation               | [Click](./BankAccountSimulation/)   |
+| 6        | Java GUI – ToDo App.                  | [Click](./ToDoApp/)                 |
+| 7        | Java JDBC – Employee Database App     | [Click](./EmployeeDatabaseApp/)     |
+| 8        | Mini Project – Online Quiz App        | [Click](QuizApp/)                   |
 
 ## 📂 Project Index
 
@@ -24,7 +24,7 @@ Below is a table of contents linking to the core files of the Chat Application p
 
 | No. | File / Module Name                 | Description                                   | Link to File                                |
 |-----|------------------------------------|-----------------------------------------------|---------------------------------------------|
-| 1   | Java Chat Application - ThreadTalk | Main server file, handles all client sockets  | [Click](./Projects/Project ChatApplication) |
+| 1   | Java Chat Application - ThreadTalk | Main server file, handles all client sockets  | [Click](Projects/ProjectChatApplication) |
 
 > ✨ *Please navigate using the links above to view specific task details and implementations.*
 
