@@ -18,6 +18,14 @@ Below is a table of contents linking to the task files:
 | 7        | Java JDBC – Employee Database App     | [Click](./EmployeeDatabaseApp/)    |
 | 8        | Mini Project – Online Quiz App        | [Click](QuizApp/)               |
 
+## 📂 Project Index
+
+Below is a table of contents linking to the core files of the Chat Application project:
+
+| No. | File / Module Name                 | Description                                   | Link to File                                |
+|-----|------------------------------------|-----------------------------------------------|---------------------------------------------|
+| 1   | Java Chat Application - ThreadTalk | Main server file, handles all client sockets  | [Click](./Projects/Project ChatApplication) |
+
 > ✨ *Please navigate using the links above to view specific task details and implementations.*
 
 ## 📌 Notes
@@ -30,7 +38,7 @@ Below is a table of contents linking to the task files:
 - Java
 - Git / GitHub
 - Intellij Idea 
-- JDK -17 LTS
+- JDK -17 LTS Or 21 LTS
 - Others as required per task
 
 ---

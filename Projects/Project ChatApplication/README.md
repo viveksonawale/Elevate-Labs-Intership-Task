@@ -40,13 +40,13 @@ javac ChatApplicationClient.java
 java ChatApplicationClient
 ```
 
-> 💡 Run multiple clients in separate terminals.
+
 
 ---
 
 ## 📸 Screenshots
 
-> Add GUI and terminal ss (screenshots) here.
+![screenshot.jpeg](screenshot.jpeg)
 
 ---
 
